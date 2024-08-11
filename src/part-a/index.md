@@ -15,8 +15,11 @@ This part consists of:
 > <p class="task"> Task
 >
 > Submit the following tasks for the lab report for Part A: 
-> - Step [12](1.md#12)
-> - Step [14](1.md#14)
+> - Step [2](1.md#2)
+> - Step [7](1.md#7)
+> - Step [8](1.md#8)
+> - Step [9](1.md#9)
+> - Step [10](1.md#10)
 > 
 > before:
 >
