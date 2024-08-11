@@ -21,8 +21,4 @@ This part consists of:
 > - Step [9](1.md#9)
 > - Step [10](1.md#10)
 > 
-> before:
->
-> <p class="warn"> the end of the lab session at 2 pm on Oct 9th (Monday)
->
-> in **PDF format only** to the **Lab 4A** folder, and name the file `Lab4A_YourName.pdf`
+> before the end of the lab session at 4 pm on Aug 15th (Thursday) in **PDF format** to the **Lab 1** folder, and name the file `Lab1_YourName.pdf`
