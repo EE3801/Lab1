@@ -1,11 +1,15 @@
 # Part A
 
-In this lab, you will work with data from one day of recording to learn about the different types of data recorded from an experiment, and see how multiple data streams can be integrated.
+In this lab, you will create and set up your AWS account, start up an EC2 instance, login to the instance, perform some function on the instance, logout from the instance, and shut down the instance. 
 
 This part consists of:
 
 <ol>
-  <li> Install and test data analysis software (Estimated time:  45 mins)
+  <li> Create your AWS account (Estimated time:  15 mins)
+  <li> Install the AWS Command Line Interface (Estimated time: 15 mins)
+  <li> Start an AWS EC2 Instance (Estimated time: 5 mins)
+  <li> Use your EC2 Instance (Estimated time: 5 mins)
+  <li> Shut down your EC2 Instance (Estimated time: 5 mins)
 </ol>
 
 > <p class="task"> Task
