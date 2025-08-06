@@ -21,4 +21,4 @@ This part consists of:
 > - Step [9](1.md#9)
 > - Step [10](1.md#10)
 > 
-> before the end of the lab session at 4 pm on Aug 15th (Thursday) in **PDF format** to the **Lab 1** folder, and name the file `Lab1_YourName.pdf`
+> before the end of the lab session at 4 pm on Aug 14th (Thursday) in **PDF format** to the **Lab 1** folder, and name the file `Lab1_YourName.pdf`
