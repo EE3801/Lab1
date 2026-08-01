@@ -2,7 +2,7 @@
 
 In this lab, you will create and set up your AWS account, start up an EC2 instance, login to the instance, perform some function on the instance, logout from the instance, and shut down the instance. 
 
-This part consists of:
+In this part of the lab, you will:
 
 <ol>
   <li> Create your AWS account (Estimated time:  15 mins)
@@ -21,4 +21,4 @@ This part consists of:
 > - Step [9](1.md#9)
 > - Step [10](1.md#10)
 > 
-> before the end of the lab session at 9 pm on Aug 13th (Thursday) in **PDF format** to the **Lab 1** folder, and name the file `Lab1_YourName.pdf`
+> before the end of the lab session at 5 pm on Aug 13th (Thursday) in **PDF format** to the **Lab 1A** folder, and name the file `Lab1A_YourName.pdf`
